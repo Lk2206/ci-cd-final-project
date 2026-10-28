@@ -1,4 +1,4 @@
-# ci-cd-final-project
+# cicd-final-project
 
 A Flask-based product service demonstrating CI/CD practices with GitHub Actions and Tekton.
 
